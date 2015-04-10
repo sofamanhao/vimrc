@@ -23,7 +23,7 @@ set noeb
 " line number
 set nu!
 
-#hi LineNr ctermfg=214
+" hi LineNr ctermfg=214
 set cursorline
 hi CursorLine   cterm=NONE ctermbg=237 ctermfg=NONE guibg=NONE guifg=NONE
 set cursorcolumn
