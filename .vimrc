@@ -33,6 +33,7 @@ hi CursorColumn cterm=NONE ctermbg=237 ctermfg=none  guibg=NONE guifg=NONE
 set tabstop=4
 " auto tab
 set autoindent
+set shiftwidth=4 
 
 set so=8 
 
